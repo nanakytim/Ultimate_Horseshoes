@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "horseshoes:copper_horseshoes",
+    "horseshoes:iron_horseshoes",
+    "horseshoes:golden_horseshoes",
+    "horseshoes:diamond_horseshoes",
+    "horseshoes:netherite_horseshoes"
+  ]
+}

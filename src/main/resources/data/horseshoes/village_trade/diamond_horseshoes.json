@@ -1,0 +1,6 @@
+{
+  "gives": { "item": "horseshoes:diamond_horseshoes", "count": 1 },
+  "wants": [{ "item": "minecraft:emerald", "count": 18 }],
+  "max_uses": 12,
+  "reward_exp": true
+}

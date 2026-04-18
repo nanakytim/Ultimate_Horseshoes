@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "horseshoes",
+  "version": "${version}",
+  "name": "Horseshoes",
+  "description": "A mod that adds enchantable horseshoes to Minecraft.",
+  "authors": [
+    "Nanaky"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/horseshoes/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.nanaky.horseshoes.client.HorseshoesClient"
+    ],
+    "main": [
+      "net.nanaky.horseshoes.Horseshoes"
+    ]
+  },
+  "mixins": [
+    "horseshoes.mixin.json"
+  ],
+  "depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+  }
+}
