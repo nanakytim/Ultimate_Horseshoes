@@ -1,26 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "horseshoes",
+  "id": "ultimate_horseshoes",
   "version": "${version}",
-  "name": "Horseshoes",
+  "name": "Ultimate Horseshoes",
   "description": "A mod that adds enchantable horseshoes to Minecraft.",
   "authors": [
     "Nanaky"
   ],
-  "contact": {},
+  "contact": {
+    "homepage": "https://github.com/nanakytim",
+    "sources": "https://github.com/nanakytim/ultimate_horseshoes"
+  },
   "license": "MIT",
-  "icon": "assets/horseshoes/icon.png",
+  "icon": "assets/ultimate_horseshoes/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "net.nanaky.horseshoes.client.HorseshoesClient"
+      "net.nanaky.ultimate_horseshoes.client.UltimateHorseshoesClient"
     ],
     "main": [
-      "net.nanaky.horseshoes.Horseshoes"
+      "net.nanaky.ultimate_horseshoes.UltimateHorseshoes"
     ]
   },
   "mixins": [
-    "horseshoes.mixin.json"
+    "ultimate_horseshoes.mixin.json"
   ],
   "depends": {
 		"fabricloader": ">=0.18.4",

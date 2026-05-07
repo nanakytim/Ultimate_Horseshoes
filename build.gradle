@@ -18,7 +18,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"horseshoes" {
+		"ultimate_horseshoes" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}

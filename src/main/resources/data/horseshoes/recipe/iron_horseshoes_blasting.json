@@ -1,7 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": "horseshoes:iron_horseshoes",
-  "result": { "id": "minecraft:iron_nugget" },
-  "experience": 0.1,
-  "cookingtime": 100
-}

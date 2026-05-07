@@ -1,7 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": "horseshoes:golden_horseshoes",
-  "result": { "id": "minecraft:gold_nugget" },
-  "experience": 0.1,
-  "cookingtime": 100
-}

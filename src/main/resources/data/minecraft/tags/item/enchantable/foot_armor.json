@@ -1,10 +1,10 @@
 {
   "replace": false,
   "values": [
-    "horseshoes:copper_horseshoes",
-    "horseshoes:iron_horseshoes",
-    "horseshoes:golden_horseshoes",
-    "horseshoes:diamond_horseshoes",
-    "horseshoes:netherite_horseshoes"
+    "ultimate_horseshoes:copper_horseshoes",
+    "ultimate_horseshoes:iron_horseshoes",
+    "ultimate_horseshoes:golden_horseshoes",
+    "ultimate_horseshoes:diamond_horseshoes",
+    "ultimate_horseshoes:netherite_horseshoes"
   ]
 }
