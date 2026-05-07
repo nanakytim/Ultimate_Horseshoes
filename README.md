@@ -1,6 +1,8 @@
+<img width="512" height="512" alt="ultimate_horseshoes" src="https://github.com/user-attachments/assets/d22dbf29-c01f-4285-8396-e7af29f99f08" />
+
 # Horseshoes
 
-This mod based on Hyperpigeon's adds five tiers of horseshoes to the game!
+This mod adds five tiers of horseshoes to the game!
 They are enchantable, boost speed and jump on your mounts, and give a bit of armour.
 They truly render when equipped, and can be retrieved using Shears.
 Horseshoes have durability, they get damaged depending on how much your horse walk (even on its own).
@@ -16,7 +18,7 @@ Horses variants (Regular, Zombie, Skeleton), Mules and Donkeys can wear Horsesho
 
 There are **five** types of Horseshoes: Copper, Iron, Gold, Diamond and Netherite.
 
-![Iron, Golden, and Diamond Horseshoes](https://cdn.modrinth.com/data/cached_images/485e42cc32f4045fdc04e902c9803c329998ec81.png)
+![Copper, Iron, Golden, Diamond and Netherite Horseshoes](https://cdn.modrinth.com/data/z4gIGraY/images/dc73a31c5248d044b696bcf4ac9fc2b936644d4b.png)
 
 1. Copper Horseshoes: increases speed by **2 blocks per second**, jump by **0.5 block** and provides  **0.5 bar of armor**.
 2. Iron Horseshoes: increases speed by **2 blocks per second**, jump by **0.5 block** and provides  **1 bar of armor**.
